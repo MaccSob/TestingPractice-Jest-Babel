@@ -1,0 +1,22 @@
+{
+  "name": "testingpractice-jest-babel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sum.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaccSob/TestingPractice-Jest-Babel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaccSob/TestingPractice-Jest-Babel/issues"
+  },
+  "homepage": "https://github.com/MaccSob/TestingPractice-Jest-Babel#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
